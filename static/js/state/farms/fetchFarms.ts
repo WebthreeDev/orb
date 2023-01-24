@@ -139,7 +139,7 @@ const fetchFarms = async () => {
         },
         {
           address: getMasterChefAddress(),
-          name: 'ibgPerBlock',
+          name: 'GETHPerBlock',
         },
       ])
 

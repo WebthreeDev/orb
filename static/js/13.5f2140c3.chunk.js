@@ -44,7 +44,7 @@
                                             return n = k.a.map((function(e) {
                                                 return {
                                                     address: Object(v.d)(),
-                                                    name: "pendingIBG",
+                                                    name: "pendingGETH",
                                                     params: [e.pid, c]
                                                 }
                                             })), e.next = 3, Object(g.a)(w, n);
@@ -171,7 +171,7 @@
                                             return n = k.a.map((function(e) {
                                                 return {
                                                     address: Object(v.d)(),
-                                                    name: "pendingIBG",
+                                                    name: "pendingGETH",
                                                     params: [e.pid, c]
                                                 }
                                             })), e.next = 3, Object(g.a)(w, n);
