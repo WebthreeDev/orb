@@ -94,7 +94,7 @@ const FarmedStakingCard = () => {
             animate={{ scale: 1.1 }}
             transition={{ ease: 'linear', duration: 2, repeat: Infinity, repeatType: 'reverse' }}
           >
-            <CardImage src="/images/GETh.png" alt="iBG logo" width={104} height={64} />{' '}
+            <CardImage src="/images/GETh.png" alt="GETH logo" width={104} height={64} />{' '}
           </Img>
           <div style={{ height: '7rem', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
             <Block>

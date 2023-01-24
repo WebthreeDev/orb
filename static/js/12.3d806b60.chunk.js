@@ -978,7 +978,7 @@
                             justifyContent: "center",
                             children: Object(r.jsxs)(S.q, {
                                 href: "{``}",
-                                children: [" ", s(999, "Get"), " iBG "]
+                                children: [" ", s(999, "Get"), " GETH "]
                             })
                         })]
                     })
@@ -1083,7 +1083,7 @@
                         C = n.tokenAddresses,
                         z = n.risk;
                     return Object(r.jsxs)(Ke, {
-                        children: ["iBG" === n.tokenSymbol && Object(r.jsx)(_e, {}), Object(r.jsx)(Q, {
+                        children: ["GETH" === n.tokenSymbol && Object(r.jsx)(_e, {}), Object(r.jsx)(Q, {
                             lpLabel: v,
                             multiplier: n.multiplier,
                             risk: z,

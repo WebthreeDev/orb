@@ -129,7 +129,7 @@ const ApyCalculatorModal: React.FC<ApyCalculatorModalProps> = ({
         <LinkExternal href="{``}">
           {' '}
           {/* double bracket hatana hai   https://exchange.pancakeswap.finance/#/add/${liquidityUrlPathParts} */}
-          {TranslateString(999, 'Get')} iBG {/* {lpLabel} */}
+          {TranslateString(999, 'Get')} GETH {/* {lpLabel} */}
         </LinkExternal>
       </Flex>
     </Modal>

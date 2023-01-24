@@ -313,7 +313,7 @@
                                     },
                                     children: [Object(r.jsx)(M, {
                                         src: "/images/GETh.png",
-                                        alt: "iBG logo",
+                                        alt: "GETH logo",
                                         width: 104,
                                         height: 64
                                     }), " "]
