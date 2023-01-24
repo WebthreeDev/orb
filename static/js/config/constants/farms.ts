@@ -16,7 +16,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'GravityETH',
     tokenAddresses: {
       97: '',
-      1: '0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24',
+      1: '0xeaeb339abc8dc78214c00b700a692c956b0e146b',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba',
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
@@ -38,7 +38,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'GravityETH',
     tokenAddresses: {
       97: '',
-      1: '0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24',
+      1: '0xeaeb339abc8dc78214c00b700a692c956b0e146b',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba',
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
@@ -60,7 +60,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'GravityETH',
     tokenAddresses: {
       97: '',
-      1: '0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24',
+      1: '0xeaeb339abc8dc78214c00b700a692c956b0e146b',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba',
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
@@ -166,7 +166,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'UNI',
     lpAddresses: {
       97: '',
-      1: '0xd3d2e2692501a5c9ca623199d38826e513033a17',
+      1: '0xa57f771c71cc6be8bd7b26012fa022113dc949f1',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
@@ -196,7 +196,7 @@ const farms: FarmConfig[] = [
   //   tokenSymbol: 'PICKLE',
   //   tokenAddresses: {
   //     97: '',
-  //     1:"0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24",
+  //     1:"0xeaeb339abc8dc78214c00b700a692c956b0e146b",
   //     56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba',
   //     3:"0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
   //   },
@@ -218,7 +218,7 @@ const farms: FarmConfig[] = [
   //   tokenSymbol: 'SUSHI',
   //   tokenAddresses: {
   //     97: '',
-  //     1:"0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24",
+  //     1:"0xeaeb339abc8dc78214c00b700a692c956b0e146b",
   //     56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba',
   //     3:"0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
   //   },

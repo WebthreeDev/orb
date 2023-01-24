@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: '', // 'https://app.uniswap.org/#/swap?outputCurrency=0xf16cd087e1c2c747b2bdf6f9a5498aa400d99c24&use=V2', // 'https://exchange.goosedefi.com/',
+        href: '', // 'https://app.uniswap.org/#/swap?outputCurrency=0xeaeb339abc8dc78214c00b700a692c956b0e146b&use=V2', // 'https://exchange.goosedefi.com/',
       },
       {
         label: 'Liquidity',
-        href: '', //  'https://app.uniswap.org/#/add/v2/0xf16cd087e1c2c747b2bdf6f9a5498aa400d99c24/ETH', // 'https://exchange.goosedefi.com/#/pool',
+        href: '', //  'https://app.uniswap.org/#/add/v2/0xeaeb339abc8dc78214c00b700a692c956b0e146b/ETH', // 'https://exchange.goosedefi.com/#/pool',
       },
     ],
   },
@@ -38,7 +38,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Dex Guru',
-        href: 'https://dex.guru/token/0xf16cd087e1c2c747b2bdf6f9a5498aa400d99c24-eth',
+        href: 'https://dex.guru/token/0xeaeb339abc8dc78214c00b700a692c956b0e146b-eth',
       },
 
       {

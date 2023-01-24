@@ -610,7 +610,7 @@
             "use strict";
             t.a = {
                 cake: {
-                    1: "0xf16cd087e1c2c747b2bdf6f9a5498aa400d99c24",
+                    1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
                     56: "0x5c46c55a699a6359e451b2c99344138420c87261",
                     97: "",
                     3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
@@ -1076,7 +1076,7 @@
                     tokenSymbol: "GravityETH",
                     tokenAddresses: {
                         97: "",
-                        1: "0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24",
+                        1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
@@ -1096,7 +1096,7 @@
                     tokenSymbol: "GravityETH",
                     tokenAddresses: {
                         97: "",
-                        1: "0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24",
+                        1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
@@ -1116,7 +1116,7 @@
                     tokenSymbol: "GravityETH",
                     tokenAddresses: {
                         97: "",
-                        1: "0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24",
+                        1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
@@ -1209,7 +1209,7 @@
                     lpSymbol: "UNI",
                     lpAddresses: {
                         97: "",
-                        1: "0xd3d2e2692501a5c9ca623199d38826e513033a17",
+                        1: "0xa57f771c71cc6be8bd7b26012fa022113dc949f1",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
@@ -1423,7 +1423,7 @@
                     initialOpenState: !1,
                     items: [{
                         label: "Dex Guru",
-                        href: "https://dex.guru/token/0xf16cd087e1c2c747b2bdf6f9a5498aa400d99c24-eth"
+                        href: "https://dex.guru/token/0xeaeb339abc8dc78214c00b700a692c956b0e146b-eth"
                     }, {
                         label: "Dex Tools",
                         href: "https://www.dextools.io/app/uniswap/pair-explorer/0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac"
