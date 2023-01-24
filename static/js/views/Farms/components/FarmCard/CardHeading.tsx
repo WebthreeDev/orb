@@ -25,7 +25,7 @@ const MultiplierTag = styled(Tag)`
 const CardHeading: React.FC<ExpandableSectionProps> = ({
   lpLabel,
   multiplier,
-  risk,
+  risk,eth:
   farmImage,
   tokenSymbol,
   depositFee,

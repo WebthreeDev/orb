@@ -622,7 +622,7 @@
                     3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                 },
                 masterChef: {
-                    1: "0x028B837c24D8c73415e4443Cb49f5CA357A43410",
+                    1: "0xD238810dA8f420Fd7b4228DB29a880472df0FE93",
                     56: "0x77E81CBDC4dCc545189183FcbC73232468C60bfe",
                     97: "",
                     3: "0x654565b5370AE2f0b69067D511831108cA4cAB3C"
