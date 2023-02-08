@@ -978,7 +978,7 @@
                             justifyContent: "center",
                             children: Object(r.jsxs)(S.q, {
                                 href: "{``}",
-                                children: [" ", s(999, "Get"), " GETH "]
+                                children: [" ", s(999, "Get"), " VOLTAI "]
                             })
                         })]
                     })
@@ -1083,7 +1083,7 @@
                         C = n.tokenAddresses,
                         z = n.risk;
                     return Object(r.jsxs)(Ke, {
-                        children: ["GETH" === n.tokenSymbol && Object(r.jsx)(_e, {}), Object(r.jsx)(Q, {
+                        children: ["VOLTAI" === n.tokenSymbol && Object(r.jsx)(_e, {}), Object(r.jsx)(Q, {
                             lpLabel: v,
                             multiplier: n.multiplier,
                             risk: z,
@@ -1349,7 +1349,7 @@
                                         paddingLeft: "1rem"
                                     },
                                     children: [Object(r.jsx)(xn, {
-                                        children: T ? t(10002, "Stake tokens to earn GETH") : t(320, "Stake LP tokens to earn GETH")
+                                        children: T ? t(10002, "Stake tokens to earn VOLTAI") : t(320, "Stake LP tokens to earn VOLTAI")
                                     }), Object(r.jsx)(pn, {})]
                                 })]
                             }), Object(r.jsx)("div", {

@@ -10,7 +10,7 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       97: '',
       1: '0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac',
-      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
+      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
     tokenSymbol: 'VoltAI',
@@ -32,7 +32,7 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       97: '',
       1: '0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac',
-      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
+      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
     tokenSymbol: 'VoltAI',
@@ -54,7 +54,7 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       97: '',
       1: '0x81a10a45143d7a6b7e1a0e63761b4fba311bb661',
-      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
+      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
     tokenSymbol: 'VoltAI',
@@ -76,7 +76,7 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       97: '',
       1: '0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852',
-      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
+      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
     tokenSymbol: 'ETH',
@@ -99,7 +99,7 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       97: '',
       1: '0xbb2b8038a1640196fbe3e38816f3e67cba72d940',
-      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
+      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
     tokenSymbol: 'ETH',
@@ -122,7 +122,7 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       97: '',
       1: '0xce84867c3c02b05dc570d0135103d3fb9cc19433',
-      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
+      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
     tokenSymbol: 'SUSHI',
@@ -145,7 +145,7 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       97: '',
       1: '0x795065dcc9f64b5614c407a6efdc400da6221fb0',
-      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
+      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
     tokenSymbol: 'SUSHI',
@@ -167,7 +167,7 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       97: '',
       1: '0xa57f771c71cc6be8bd7b26012fa022113dc949f1',
-      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
+      56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
     tokenSymbol: 'UNI',
@@ -189,7 +189,7 @@ const farms: FarmConfig[] = [
   //   lpAddresses: {
   //     97: '',
   //     1:"0xef0881ec094552b2e128cf945ef17a6752b4ec5d",
-  //     56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
+  //     56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
   //     3:"0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
 
   //   },
@@ -211,7 +211,7 @@ const farms: FarmConfig[] = [
   //   lpAddresses: {
   //     97: '',
   //     1:"0x795065dcc9f64b5614c407a6efdc400da6221fb0",
-  //     56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
+  //     56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // VOLTAI-BUSD LP
   //     3:"0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
 
   //   },
