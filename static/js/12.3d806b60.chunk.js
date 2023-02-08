@@ -1349,7 +1349,7 @@
                                         paddingLeft: "1rem"
                                     },
                                     children: [Object(r.jsx)(xn, {
-                                        children: T ? t(10002, "Stake tokens to earn VOLTAI") : t(320, "Stake LP tokens to earn VOLTAI")
+                                        children: T ? t(10002, "Stake VOLT AI to earn Passive Income") : t(320, "Stake LP tokens to earn VOLTAI")
                                     }), Object(r.jsx)(pn, {})]
                                 })]
                             }), Object(r.jsx)("div", {

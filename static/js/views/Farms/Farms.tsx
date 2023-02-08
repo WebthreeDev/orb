@@ -162,7 +162,7 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
           <div style={{ paddingLeft: '1rem' }}>
             <Head1>
               {tokenMode
-                ? TranslateString(10002, 'Stake tokens to earn VOLTAI')
+                ? TranslateString(10002, 'Stake VOLT AI to earn Passive Income')
                 : TranslateString(320, 'Stake LP tokens to earn VOLTAI')}
             </Head1>
             <Head2>{/* {TranslateString(10000, 'Deposit Fee will be used to buyback VOLTAI')} */}</Head2>
