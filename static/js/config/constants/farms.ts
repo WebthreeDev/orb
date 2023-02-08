@@ -6,14 +6,14 @@ const farms: FarmConfig[] = [
     pid: 0,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'GravityETH',
+    lpSymbol: 'VoltAI',
     lpAddresses: {
       97: '',
       1: '0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
-    tokenSymbol: 'GravityETH',
+    tokenSymbol: 'VoltAI',
     tokenAddresses: {
       97: '',
       1: '0xeaeb339abc8dc78214c00b700a692c956b0e146b',
@@ -26,7 +26,7 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'GravityETH-ETH',
+    lpSymbol: 'VoltAI-ETH',
     platfrom: 'Uniswap',
 
     lpAddresses: {
@@ -35,7 +35,7 @@ const farms: FarmConfig[] = [
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
-    tokenSymbol: 'GravityETH',
+    tokenSymbol: 'VoltAI',
     tokenAddresses: {
       97: '',
       1: '0xeaeb339abc8dc78214c00b700a692c956b0e146b',
@@ -50,14 +50,14 @@ const farms: FarmConfig[] = [
     risk: 5,
     platfrom: 'Uniswap',
 
-    lpSymbol: 'GravityETH-USDT',
+    lpSymbol: 'VoltAI-USDT',
     lpAddresses: {
       97: '',
       1: '0x81a10a45143d7a6b7e1a0e63761b4fba311bb661',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // GETH-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
-    tokenSymbol: 'GravityETH',
+    tokenSymbol: 'VoltAI',
     tokenAddresses: {
       97: '',
       1: '0xeaeb339abc8dc78214c00b700a692c956b0e146b',

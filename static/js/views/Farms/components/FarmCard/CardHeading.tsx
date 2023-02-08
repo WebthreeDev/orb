@@ -38,7 +38,7 @@ const CardHeading: React.FC<ExpandableSectionProps> = ({
     <Wrapper justifyContent="space-between" alignItems="center" mb="12px">
       <img
         src={`/images/egg/${farmImage}.png`}
-        alt="GravityETH"
+        alt="VoltAI"
         style={{ width: '5.5rem', height: isToken ? '5.5rem' : '3rem' }}
       />{' '}
       {/* {tokenSymbol} */}

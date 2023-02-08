@@ -90,7 +90,7 @@ const config: MenuEntry[] = [
        },
        {
           label: 'Blog',
-         href: 'https://gravityeth.medium.com/',
+         href: 'https://VoltAI.medium.com/',
        },
      ],
    },

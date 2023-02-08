@@ -175,7 +175,7 @@
                         mb: "12px",
                         children: [Object(r.jsx)("img", {
                             src: "/images/egg/".concat(c, ".png"),
-                            alt: "GravityETH",
+                            alt: "VoltAI",
                             style: {
                                 width: "5.5rem",
                                 height: o ? "5.5rem" : "3rem"
@@ -765,7 +765,7 @@
                                 color: "secondary",
                                 fontSize: "12px",
                                 pr: "3px",
-                                children: "GravityETH "
+                                children: "VoltAI "
                             }), Object(r.jsx)(S.z, {
                                 bold: !0,
                                 textTransform: "uppercase",
@@ -907,7 +907,7 @@
                                     color: "textSubtle",
                                     textTransform: "uppercase",
                                     mb: "20px",
-                                    children: "GravityETH per $1000 "
+                                    children: "VoltAI per $1000 "
                                 })
                             }), Object(r.jsx)(Me, {
                                 children: Object(r.jsx)(S.z, {
@@ -1121,7 +1121,7 @@
                                 children: [b(318, "Earn"), ":"]
                             }), Object(r.jsxs)(S.z, {
                                 bold: !0,
-                                children: ["GravityETH", " "]
+                                children: ["VoltAI", " "]
                             })]
                         }), n.platfrom ? Object(r.jsxs)(S.m, {
                             justifyContent: "space-between",
