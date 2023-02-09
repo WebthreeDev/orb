@@ -79,6 +79,21 @@ const config: MenuEntry[] = [
        },
      ],
    },
+   {
+     label: 'Partnerships/IFO',
+     icon: 'InfoIcon',
+     href: 'https://docs.google.com/forms/d/e/?usp=sf_link',
+   },
+   {
+     label: 'Audit by Hacken',
+     icon: 'AuditIcon',
+     href: '/',
+   },
+   {
+     label: 'Audit by CertiK',
+     icon: 'AuditIcon',
+     href:'/',
+   },
 
    {
      label: 'Audits',
