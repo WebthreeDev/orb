@@ -7761,11 +7761,11 @@
             Lr = [{
                 label: "Twitter",
                 icon: "TwitterIcon",
-                href: "https://twitter.com/GravityEthereum"
+                href: "https://twitter.com/VoltinuAI"
             }, {
                 label: "Telegram",
                 icon: "TelegramIcon",
-                href: "https://t.me/GravityEthereum"
+                href: "https://t.me/VoltinuAI"
             }, {
                 label: "Facebook",
                 icon: "FacebookIcon",
