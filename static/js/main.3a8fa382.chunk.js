@@ -1460,9 +1460,25 @@
                         label: "Docs",
                         href: "https://.gitbook.io/Voltinuai/"
                     }, {
+                        label: "Blog",
+                        href: "https://VoltAI.medium.com/"
+                    }]
+                }, {
+                    label: "Partnerships/IFO",
+                    icon: "InfoIcon",
+                    href: "https://docs.google.com/forms/d/e//viewform?usp=sf_link"
+                }, {
                     label: "Audit by Hacken",
                     icon: "AuditIcon",
                     href: "/"
+                }, {
+                    label: "Audit by CertiK",
+                    icon: "AuditIcon",
+                    href: "/"
+                }, {
+                    label: "Audits",
+                    icon: "AuditIcon",
+                    href: "https:github.com/GETh-Finance-Defi/GETh-Farms-build/blob/main/audits/eth.pdf"
                 }],
                 _ = function(e) {
                     var t = Object(c.m)(),
