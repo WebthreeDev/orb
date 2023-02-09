@@ -575,11 +575,11 @@
                             children: [Object(r.jsx)(s.n, {
                                 size: "lg",
                                 mb: "24px",
-                                children: e(10003, "Announcements")
+                                children: e(10003, "BLOG")
                             }), Object(r.jsx)(ue.a, {
                                 dataSource: {
                                     sourceType: "profile",
-                                    screenName: "dev"
+                                    screenName: "VOLTINUAI"
                                 },
                                 options: {
                                     height: "300",
