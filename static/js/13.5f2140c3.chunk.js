@@ -639,8 +639,8 @@
                                 size: "xl",
                                 mb: "24px",
                                 color: "primary1",
-                                children: ["GRAVITY", Object(r.jsx)(me, {
-                                    children: "ETH"
+                                children: ["VOLT", Object(r.jsx)(me, {
+                                    children: "AI"
                                 })]
                             }), Object(r.jsx)(s.z, {
                                 color: "primary1"
