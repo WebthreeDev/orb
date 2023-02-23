@@ -11,42 +11,8 @@ import CardValue from './CardValue'
 import { useFarms } from '../../../state/hooks'
 
 const StyledTwitterCard = styled(Card)`
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 8px;
+
 `
 
-const Row = styled.div`
-  align-items: center;
-  display: flex;
-  font-size: 14px;
-  justify-content: space-between;
-  margin-bottom: 8px;
-`
-
-const TwitterCard = () => {
-  const TranslateString = useI18n()
-
-  return (
-    <StyledTwitterCard>
-      <CardBody>
-        <Heading size="lg" mb="24px">
-          {TranslateString(10003, 'BLOG')}
-        </Heading>
-        <Timeline
-          dataSource={{
-            sourceType: 'profile',
-            screenName: 'VOLT AI',
-          }}
-          options={{
-            height: '300',
-            chrome: 'noheader, nofooter',
-            width: '400',
-          }}
-        />
-      </CardBody>
-    </StyledTwitterCard>
-  )
-}
 
 export default TwitterCard

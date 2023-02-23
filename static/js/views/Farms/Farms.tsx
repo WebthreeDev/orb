@@ -163,9 +163,9 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
             <Head1>
               {tokenMode
                 ? TranslateString(10002, 'Stake VOLT AI to earn Passive Income')
-                : TranslateString(320, 'Stake LP tokens to earn VOLTAI')}
+                : TranslateString(320, 'Stake LP tokens to earn ORBITRIUM')}
             </Head1>
-            <Head2>{/* {TranslateString(10000, 'Deposit Fee will be used to buyback VOLTAI')} */}</Head2>
+            <Head2>{/* {TranslateString(10000, 'Deposit Fee will be used to buyback ORBITRIUM')} */}</Head2>
           </div>
         </div>
         <div style={{ paddingTop: '2rem' }}>

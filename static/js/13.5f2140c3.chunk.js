@@ -313,7 +313,7 @@
                                     },
                                     children: [Object(r.jsx)(M, {
                                         src: "/images/GETh.png",
-                                        alt: "VOLTAI logo",
+                                        alt: "ORBITRIUM logo",
                                         width: 104,
                                         height: 64
                                     }), " "]
@@ -327,7 +327,7 @@
                                     children: [Object(r.jsxs)(J, {
                                         children: [Object(r.jsxs)("div", {
                                             children: [Object(r.jsx)(s.z, {
-                                                children: o(544, "VOLTAI to Harvest")
+                                                children: o(544, "ORBITRIUM to Harvest")
                                             }), Object(r.jsxs)(U, {
                                                 children: ["$", (x * m).toFixed(2)]
                                             })]
@@ -352,7 +352,7 @@
                                     disabled: g.length <= 0 || t,
                                     onClick: k,
                                     fullWidth: !0,
-                                    children: t ? o(548, "Collecting VOLTAI") : o(999, "Harvest all (".concat(g.length, ")"))
+                                    children: t ? o(548, "Collecting ORBITRIUM") : o(999, "Harvest all (".concat(g.length, ")"))
                                 }) : Object(r.jsx)(S.a, {
                                     fullWidth: !0
                                 })]
@@ -500,7 +500,7 @@
                                 }), Object(r.jsxs)(te, {
                                     children: [Object(r.jsx)(s.z, {
                                         fontSize: "14px",
-                                        children: e(540, "New VOLTAI/block")
+                                        children: e(540, "New ORBITRIUM/block")
                                     }), Object(r.jsx)(s.z, {
                                         bold: !0,
                                         fontSize: "14px",

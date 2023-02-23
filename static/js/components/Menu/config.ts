@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: '', // 'https://app.uniswap.org/#/swap?outputCurrency=0xeaeb339abc8dc78214c00b700a692c956b0e146b&use=V2', // 'https://exchange.goosedefi.com/',
+        href: '', // 'https://app.uniswap.org/#/swap?outputCurrency=0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13&use=V2', // 'https://exchange.goosedefi.com/',
       },
       {
         label: 'Liquidity',
-        href: '', //  'https://app.uniswap.org/#/add/v2/0xeaeb339abc8dc78214c00b700a692c956b0e146b/ETH', // 'https://exchange.goosedefi.com/#/pool',
+        href: '', //  'https://app.uniswap.org/#/add/v2/0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13/ETH', // 'https://exchange.goosedefi.com/#/pool',
       },
     ],
   },

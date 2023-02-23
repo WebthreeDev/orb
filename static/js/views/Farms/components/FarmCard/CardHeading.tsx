@@ -31,14 +31,14 @@ const CardHeading: React.FC<ExpandableSectionProps> = ({
   depositFee,
 }) => {
   const isToken = lpLabel.indexOf('-') === -1
-  // if (lpLabel.toLowerCase() === 'VOLTAI' || lpLabel.toLowerCase() === 'busd' || lpLabel.toLowerCase() === 'wbnb') {
+  // if (lpLabel.toLowerCase() === 'ORBITRIUM' || lpLabel.toLowerCase() === 'busd' || lpLabel.toLowerCase() === 'wbnb') {
   //   isToken = true
   // }
   return (
     <Wrapper justifyContent="space-between" alignItems="center" mb="12px">
       <img
         src={`/images/egg/${farmImage}.png`}
-        alt="VoltAI"
+        alt="ORBITRIUM"
         style={{ width: '5.5rem', height: isToken ? '5.5rem' : '3rem' }}
       />{' '}
       {/* {tokenSymbol} */}

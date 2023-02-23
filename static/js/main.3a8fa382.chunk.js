@@ -610,7 +610,7 @@
             "use strict";
             t.a = {
                 cake: {
-                    1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
+                    1: "0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13",
                     56: "0x5c46c55a699a6359e451b2c99344138420c87261",
                     97: "",
                     3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
@@ -622,7 +622,7 @@
                     3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                 },
                 masterChef: {
-                    1: "0xD238810dA8f420Fd7b4228DB29a880472df0FE93",
+                    1: "0xF20374Ea8AA631b398b729575CEB084DeA328219",
                     56: "0x77E81CBDC4dCc545189183FcbC73232468C60bfe",
                     97: "",
                     3: "0x654565b5370AE2f0b69067D511831108cA4cAB3C"
@@ -1066,17 +1066,17 @@
                     pid: 0,
                     risk: 5,
                     isTokenOnly: !0,
-                    lpSymbol: "VoltAI",
+                    lpSymbol: "ORBITRIUM",
                     lpAddresses: {
                         97: "",
-                        1: "0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac",
+                        1: "0x6bf0AD49176b0E55FE2c3C7BB1A218B18524c421",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
-                    tokenSymbol: "VoltAI",
+                    tokenSymbol: "ORBITRIUM",
                     tokenAddresses: {
                         97: "",
-                        1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
+                        1: "0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
@@ -1085,18 +1085,18 @@
                 }, {
                     pid: 1,
                     risk: 5,
-                    lpSymbol: "VoltAI-ETH",
+                    lpSymbol: "ORBITRIUM-ETH",
                     platfrom: "Uniswap",
                     lpAddresses: {
                         97: "",
-                        1: "0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac",
+                        1: "0x6bf0AD49176b0E55FE2c3C7BB1A218B18524c421",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
-                    tokenSymbol: "VoltAI",
+                    tokenSymbol: "ORBITRIUM",
                     tokenAddresses: {
                         97: "",
-                        1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
+                        1: "0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
@@ -1106,17 +1106,17 @@
                     pid: 2,
                     risk: 5,
                     platfrom: "Uniswap",
-                    lpSymbol: "VoltAI-USDT",
+                    lpSymbol: "ORBITRIUM-USDT",
                     lpAddresses: {
                         97: "",
                         1: "0x81a10a45143d7a6b7e1a0e63761b4fba311bb661",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
-                    tokenSymbol: "VoltAI",
+                    tokenSymbol: "ORBITRIUM",
                     tokenAddresses: {
                         97: "",
-                        1: "0xeaeb339abc8dc78214c00b700a692c956b0e146b",
+                        1: "0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13",
                         56: "0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba",
                         3: "0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031"
                     },
@@ -1423,10 +1423,10 @@
                     initialOpenState: !1,
                     items: [{
                         label: "Dex Guru",
-                        href: "https://dex.guru/token/0xeaeb339abc8dc78214c00b700a692c956b0e146b-eth"
+                        href: "https://dex.guru/token/0x1fbc5b43ba36adc9d2a28b460779ab03c276cd13-eth"
                     }, {
                         label: "Dex Tools",
-                        href: "https://www.dextools.io/app/uniswap/pair-explorer/0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac"
+                        href: "https://www.dextools.io/app/uniswap/pair-explorer/0x6bf0AD49176b0E55FE2c3C7BB1A218B18524c421"
                     }]
                 }, {
                     label: "Pools",
@@ -1461,7 +1461,7 @@
                         href: "https://.gitbook.io/Voltinuai/"
                     }, {
                         label: "Blog",
-                        href: "https://VoltAI.medium.com/"
+                        href: "https://ORBITRIUM.medium.com/"
                     }]
                 }, {
                     label: "Partnerships/IFO",
@@ -1708,7 +1708,7 @@
             }), document.getElementById("root"))
         },
         71: function(e) {
-            e.exports = JSON.parse('[{"inputs":[{"internalType":"contract IERC20","name":"_GETH","type":"address"},{"internalType":"address","name":"_devaddr","type":"address"},{"internalType":"address","name":"_feeAddress","type":"address"},{"internalType":"uint256","name":"_GETHPerBlock","type":"uint256"},{"internalType":"uint256","name":"_startBlock","type":"uint256"},{"internalType":"contract GETHStakingReserve","name":"_GETHStakingReserve","type":"address"}],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"user","type":"address"},{"indexed":true,"internalType":"uint256","name":"pid","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"Deposit","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"user","type":"address"},{"indexed":true,"internalType":"uint256","name":"pid","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"EmergencyWithdraw","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"previousOwner","type":"address"},{"indexed":true,"internalType":"address","name":"newOwner","type":"address"}],"name":"OwnershipTransferred","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"user","type":"address"},{"indexed":true,"internalType":"uint256","name":"pid","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"Withdraw","type":"event"},{"inputs":[],"name":"BONUS_MULTIPLIER","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"MAX_REWARDS","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"_allocPoint","type":"uint256"},{"internalType":"contract IERC20","name":"_lpToken","type":"address"},{"internalType":"uint16","name":"_depositFeeBP","type":"uint16"},{"internalType":"bool","name":"_withUpdate","type":"bool"}],"name":"add","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"},{"internalType":"uint256","name":"_amount","type":"uint256"}],"name":"deposit","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"_devaddr","type":"address"}],"name":"dev","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"devaddr","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"}],"name":"emergencyWithdraw","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"feeAddress","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"_from","type":"uint256"},{"internalType":"uint256","name":"_to","type":"uint256"}],"name":"getMultiplier","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"pure","type":"function"},{"inputs":[],"name":"GETHStakingReserve","outputs":[{"internalType":"contract GETHStakingReserve","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"VOLTAI","outputs":[{"internalType":"contract IERC20","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"GETHPerBlock","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"massUpdatePools","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"},{"internalType":"address","name":"_user","type":"address"}],"name":"pendingGETH","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"poolInfo","outputs":[{"internalType":"contract IERC20","name":"lpToken","type":"address"},{"internalType":"uint256","name":"allocPoint","type":"uint256"},{"internalType":"uint256","name":"lastRewardBlock","type":"uint256"},{"internalType":"uint256","name":"accGETHPerShare","type":"uint256"},{"internalType":"uint16","name":"depositFeeBP","type":"uint16"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"poolLength","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"productwallet","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"renounceOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"},{"internalType":"uint256","name":"_allocPoint","type":"uint256"},{"internalType":"uint16","name":"_depositFeeBP","type":"uint16"},{"internalType":"bool","name":"_withUpdate","type":"bool"}],"name":"set","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"_feeAddress","type":"address"}],"name":"setFeeAddress","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"startBlock","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"totalAllocPoint","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"totalRewardPaid","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"newOwner","type":"address"}],"name":"transferOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_GETHPerBlock","type":"uint256"}],"name":"updateEmissionRate","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"}],"name":"updatePool","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"},{"internalType":"address","name":"","type":"address"}],"name":"userInfo","outputs":[{"internalType":"uint256","name":"amount","type":"uint256"},{"internalType":"uint256","name":"rewardDebt","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"},{"internalType":"uint256","name":"_amount","type":"uint256"}],"name":"withdraw","outputs":[],"stateMutability":"nonpayable","type":"function"}]')
+            e.exports = JSON.parse('[{"inputs":[{"internalType":"contract IERC20","name":"_GETH","type":"address"},{"internalType":"address","name":"_devaddr","type":"address"},{"internalType":"address","name":"_feeAddress","type":"address"},{"internalType":"uint256","name":"_GETHPerBlock","type":"uint256"},{"internalType":"uint256","name":"_startBlock","type":"uint256"},{"internalType":"contract GETHStakingReserve","name":"_GETHStakingReserve","type":"address"}],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"user","type":"address"},{"indexed":true,"internalType":"uint256","name":"pid","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"Deposit","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"user","type":"address"},{"indexed":true,"internalType":"uint256","name":"pid","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"EmergencyWithdraw","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"previousOwner","type":"address"},{"indexed":true,"internalType":"address","name":"newOwner","type":"address"}],"name":"OwnershipTransferred","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"user","type":"address"},{"indexed":true,"internalType":"uint256","name":"pid","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"Withdraw","type":"event"},{"inputs":[],"name":"BONUS_MULTIPLIER","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"MAX_REWARDS","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"_allocPoint","type":"uint256"},{"internalType":"contract IERC20","name":"_lpToken","type":"address"},{"internalType":"uint16","name":"_depositFeeBP","type":"uint16"},{"internalType":"bool","name":"_withUpdate","type":"bool"}],"name":"add","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"},{"internalType":"uint256","name":"_amount","type":"uint256"}],"name":"deposit","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"_devaddr","type":"address"}],"name":"dev","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"devaddr","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"}],"name":"emergencyWithdraw","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"feeAddress","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"_from","type":"uint256"},{"internalType":"uint256","name":"_to","type":"uint256"}],"name":"getMultiplier","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"pure","type":"function"},{"inputs":[],"name":"GETHStakingReserve","outputs":[{"internalType":"contract GETHStakingReserve","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"ORBITRIUM","outputs":[{"internalType":"contract IERC20","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"GETHPerBlock","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"massUpdatePools","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"},{"internalType":"address","name":"_user","type":"address"}],"name":"pendingGETH","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"poolInfo","outputs":[{"internalType":"contract IERC20","name":"lpToken","type":"address"},{"internalType":"uint256","name":"allocPoint","type":"uint256"},{"internalType":"uint256","name":"lastRewardBlock","type":"uint256"},{"internalType":"uint256","name":"accGETHPerShare","type":"uint256"},{"internalType":"uint16","name":"depositFeeBP","type":"uint16"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"poolLength","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"productwallet","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"renounceOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"},{"internalType":"uint256","name":"_allocPoint","type":"uint256"},{"internalType":"uint16","name":"_depositFeeBP","type":"uint16"},{"internalType":"bool","name":"_withUpdate","type":"bool"}],"name":"set","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"_feeAddress","type":"address"}],"name":"setFeeAddress","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"startBlock","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"totalAllocPoint","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"totalRewardPaid","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"newOwner","type":"address"}],"name":"transferOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_GETHPerBlock","type":"uint256"}],"name":"updateEmissionRate","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"}],"name":"updatePool","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"},{"internalType":"address","name":"","type":"address"}],"name":"userInfo","outputs":[{"internalType":"uint256","name":"amount","type":"uint256"},{"internalType":"uint256","name":"rewardDebt","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"_pid","type":"uint256"},{"internalType":"uint256","name":"_amount","type":"uint256"}],"name":"withdraw","outputs":[],"stateMutability":"nonpayable","type":"function"}]')
         },
         84: function(e, t, n) {
             "use strict";

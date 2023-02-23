@@ -91,7 +91,7 @@ export const usePriceCakeBusd = (): BigNumber => {
   console.log('bnbPriceUSD', bnbPriceUSD.toNumber())
 
   return farm.tokenPriceVsQuote ? bnbPriceUSD.times(farm.tokenPriceVsQuote) : ZERO
-  // const pid = 2; // VOLTAI-BUSD LP
+  // const pid = 2; // ORBITRIUM-BUSD LP
   // const farm = useFarmFromPid(pid);
   // console.log("wwewewee",new BigNumber(farm.tokenPriceVsQuote).toNumber())
 

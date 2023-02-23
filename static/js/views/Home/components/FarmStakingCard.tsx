@@ -94,12 +94,12 @@ const FarmedStakingCard = () => {
             animate={{ scale: 1.1 }}
             transition={{ ease: 'linear', duration: 2, repeat: Infinity, repeatType: 'reverse' }}
           >
-            <CardImage src="/images/GETh.png" alt="VOLTAI logo" width={104} height={64} />{' '}
+            <CardImage src="/images/GETh.png" alt="ORBITRIUM logo" width={104} height={64} />{' '}
           </Img>
           <div style={{ height: '7rem', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
             <Block>
               <div>
-                <Text>{TranslateString(544, 'VOLTAI to Harvest')}</Text>
+                <Text>{TranslateString(544, 'ORBITRIUM to Harvest')}</Text>
                 <Label>${(eggPrice * earningsSum).toFixed(2)}</Label>
               </div>
               <CakeHarvestBalance earningsSum={earningsSum} />
@@ -124,7 +124,7 @@ const FarmedStakingCard = () => {
               fullWidth
             >
               {pendingTx
-                ? TranslateString(548, 'Collecting VOLTAI')
+                ? TranslateString(548, 'Collecting ORBITRIUM')
                 : TranslateString(999, `Harvest all (${balancesWithValue.length})`)}
             </Button>
           ) : (
